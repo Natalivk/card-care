@@ -1,0 +1,14 @@
+{
+    "assets": {
+        "app": [
+            "./resources/assets/js/app.js",
+            "./resources/assets/sass/app.scss"
+        ],
+        "formValidation": [
+            "./resources/assets/js/lib/formValidation/bootstrap.js"
+        ],
+        "formValidationCore": [
+            "./resources/assets/js/lib/formValidation/formValidation.js"
+        ]
+    }
+}
